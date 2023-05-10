@@ -25,7 +25,7 @@ Currently sitting at 522 Games Finished and the list can be accessed below .
 http://www.gamespot.com/profile/origamibomber/stacks/gamesivefinished/76467699/
 
 
-Still don't have a PS5, so my progress has stagnated on PSN, but my trophy collection can be found below.
+Only just managed to get a PS5, so my progress has stagnated on PSN, but my trophy collection can be found below.
 
 
 
