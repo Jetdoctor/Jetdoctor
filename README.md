@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/erselerbay/en
 
 ### Somewhat Irrelevant Gaming Flex 😎
 
-Currently sitting at 522 Games Finished and the list can be accessed below .
+Currently sitting at 536 Games Finished and the list can be accessed below.
 
 http://www.gamespot.com/profile/origamibomber/stacks/gamesivefinished/76467699/
 
