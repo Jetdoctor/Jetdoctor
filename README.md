@@ -16,7 +16,7 @@ Software Engineer ➡️ Game Designer ➡️ Technical Level Designer ➡️ Fu
 
 Email: erselerbay@live.com
 
-LinkedIn: https://www.linkedin.com/in/erselerbay/en
+LinkedIn: https://www.linkedin.com/in/erselerbay/
 
 ### Somewhat Irrelevant Gaming Flex 😎
 
