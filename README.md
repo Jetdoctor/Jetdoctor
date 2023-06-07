@@ -1,10 +1,8 @@
-### Hi there, welcome to my (Work In Progress) GitHub Portfolio 👋 
+### Hi there, welcome to my GitHub Portfolio 👋 
 
-🔭 Currently working on:
+🔭 Currently working on: Typescript + DBA
 
-📚 Stack: 
-
-🧰 Tools: 
+📚 Stack: MERN
 
 ### About Me 👨
 
