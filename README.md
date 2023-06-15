@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub Portfolio 👋 
 
-🔭 Currently working on: Typescript + DBA
+🔭 Currently working on: Typescript + DBA + Docker + Kubernetes
 
 📚 Stack: MERN
 
