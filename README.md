@@ -16,6 +16,8 @@ Email: erselerbay@live.com
 
 LinkedIn: https://www.linkedin.com/in/erselerbay/
 
+Website: https://erselerbay.com/ (Check this out for detailed information)
+
 ### Somewhat Irrelevant Gaming Flex 😎
 
 Currently sitting at 536 Games Finished and the list can be accessed below.
