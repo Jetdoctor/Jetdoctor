@@ -2,7 +2,7 @@
 
 🔭 Currently working on: Typescript + DBA + Docker + Kubernetes
 
-📚 Stack: MERN
+📚 Current Stack: MERN
 
 ### About Me 👨
 
@@ -20,7 +20,7 @@ Website: https://erselerbay.com/ (Check this out for detailed information)
 
 ### Somewhat Irrelevant Gaming Flex 😎
 
-Currently sitting at 536 Games Finished and the list can be accessed below.
+Currently sitting at 539 Games Finished and the list can be accessed below.
 
 http://www.gamespot.com/profile/origamibomber/stacks/gamesivefinished/76467699/
 
